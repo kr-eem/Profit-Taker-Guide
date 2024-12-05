@@ -88,7 +88,7 @@ There are three useful Aura Mods: Sprint Boost, Growing Power, and Aerodynamic. 
 
 ## **Weapon Builds - Eclipse**
 
-missing elements can be covered via: Warframe abilities, primary weapon, on call crewmate, manually cycling, Amp Arcanes, or Arquebex
+Missing elements can be covered via: Warframe abilities, primary weapon, on call crewmate, manually cycling, Amp Arcanes, or Arquebex
 
 __Primary weapons:__
 
@@ -102,7 +102,7 @@ __Primary weapons:__
 
 Covers toxin. Twitch is flex. This is the bare minimum build required to oneshot Pylons with the Generic Eclipse build and Sling Strength / Transient Fortitude. It relies on Multishot to oneshot, so to increase its consistency you can:
 
-- you can use a maxed Vigilante Armaments and Galvanized Chamber to have 3ms
+- You can use a maxed Vigilante Armaments and Galvanized Chamber to have 3ms
 - Invest in a dmg ms riven of any kind, this will allow you to oneshot 
 - if you don't need Zenith to do shields, replace the crit mods with more fire rate
 :::
@@ -169,6 +169,7 @@ __Melee weapon:__
 
 - Covers IPS, cold, radiation, gas, corrosive and blast.
 - Rank 0 Melee Exposure is just fine on most builds.
+- Rank >0 Exodia Contagion is not necessary.
 - If you don't oneshot elements, consider replacing attack speed mods with Primed Pressure Point and/or Organ shatter or modding for more strength.
 - The Zaw is Balla+Peye+Vargeet II Jai. If you have a different strike, see [__How to Build A Zaw__](/beginner/creating-builds.html#zaw-part-setups) for making a Zaw with a different strike.
 :::
@@ -185,7 +186,7 @@ __Heavy weapon:__
 
 - People commonly don’t have Primed Dual Rounds or Critical Focus, if so, replace them with Normal Dual Rounds, Sabot Rounds or the Cold/Electric 60/60 Mods for best results.
 - Running Ammo Chain instead of Automatic Trigger to avoid cooldowns, especially between second and third legs, is a possibility.
-- Running Vigorous Swap greatly impacts the amount of damage you deal with Heavy Weapons, as it applies **after** the animation has finished, and is therefore usable for doing the leg phase
+- Running Vigorous Swap greatly impacts the amount of damage you deal with Heavy Weapons, as it applies **after** the animation has finished, and is therefore usable for doing the leg phase.
 :::
 
 **Prisma Dual Decurions:**   
